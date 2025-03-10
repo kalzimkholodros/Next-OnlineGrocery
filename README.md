@@ -27,12 +27,12 @@ A modern e-commerce platform built with Next.js and Tailwind CSS, offering a sea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/freshmarket.git
+   git clone https://github.com/kalzimkholodros/Next-OnlineGrocery.git
    ```
 
 2. Install dependencies:
    ```bash
-   cd freshmarket
+   cd foldername
    npm install
    # or
    yarn install
