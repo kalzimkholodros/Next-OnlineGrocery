@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c19"
+  },
+  "name": "Organik Domates",
+  "description": "Taze, organik, sulu domates. Direkt üreticiden sofraya.",
+  "price": 24.9,
+  "image": "/tomato.jpg",
+  "categoryId": "CATEGORY_ID_1",
+  "stock": 100,
+  "isNew": true,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1a"
+  },
+  "name": "Taze Muz",
+  "description": "Anamur muzu, taze ve doğal.",
+  "price": 32.9,
+  "image": "/banana.jpg",
+  "categoryId": "CATEGORY_ID_1",
+  "stock": 150,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1b"
+  },
+  "name": "Günlük Süt",
+  "description": "Günlük, taze çiftlik sütü.",
+  "price": 28.9,
+  "image": "/milk.jpg",
+  "categoryId": "CATEGORY_ID_3",
+  "stock": 50,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1c"
+  },
+  "name": "Ekşi Mayalı Ekmek",
+  "description": "Geleneksel yöntemlerle yapılan ekşi mayalı ekmek.",
+  "price": 7.9,
+  "image": "/bread.jpg",
+  "categoryId": "CATEGORY_ID_4",
+  "stock": 30,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1d"
+  },
+  "name": "Dana Antrikot",
+  "description": "Taze kesilmiş dana antrikot.",
+  "price": 289.9,
+  "image": "/meat.jpg",
+  "categoryId": "CATEGORY_ID_2",
+  "stock": 20,
+  "discount": 10,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1e"
+  },
+  "name": "Köy Yumurtası",
+  "description": "Gezen tavuk yumurtası, 15li paket.",
+  "price": 45.9,
+  "image": "/eggs.jpg",
+  "categoryId": "CATEGORY_ID_8",
+  "stock": 100,
+  "isNew": true,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c1f"
+  },
+  "name": "Türk Kahvesi",
+  "description": "Premium Türk kahvesi, 250gr paket.",
+  "price": 89.9,
+  "image": "/coffee.jpg",
+  "categoryId": "CATEGORY_ID_8",
+  "stock": 80,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67cf2572cf5ed68b0c968c20"
+  },
+  "name": "Dondurma Paketi",
+  "description": "Karışık dondurma paketi, 1 litre.",
+  "price": 69.9,
+  "image": "/ice-cream.jpg",
+  "categoryId": "CATEGORY_ID_7",
+  "stock": 40,
+  "discount": 15,
+  "createdAt": "2024-03-20T10:00:00.000Z"
+}]

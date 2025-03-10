@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0a"
+  },
+  "name": "Meyve & Sebze",
+  "icon": "🥬",
+  "slug": "meyve-sebze",
+  "productCount": 150
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0b"
+  },
+  "name": "Et & Tavuk",
+  "icon": "🥩",
+  "slug": "et-tavuk",
+  "productCount": 80
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0c"
+  },
+  "name": "Süt Ürünleri",
+  "icon": "🥛",
+  "slug": "sut-urunleri",
+  "productCount": 120
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0d"
+  },
+  "name": "Fırın",
+  "icon": "🥖",
+  "slug": "firin",
+  "productCount": 90
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0e"
+  },
+  "name": "İçecekler",
+  "icon": "🥤",
+  "slug": "icecekler",
+  "productCount": 100
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c0f"
+  },
+  "name": "Atıştırmalık",
+  "icon": "🍪",
+  "slug": "atistirmalik",
+  "productCount": 200
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c10"
+  },
+  "name": "Dondurma",
+  "icon": "🍨",
+  "slug": "dondurma",
+  "productCount": 50
+},
+{
+  "_id": {
+    "$oid": "67cf24aacf5ed68b0c968c11"
+  },
+  "name": "Kahvaltılık",
+  "icon": "🍳",
+  "slug": "kahvaltilik",
+  "productCount": 150
+}]
